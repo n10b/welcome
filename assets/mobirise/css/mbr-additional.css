@@ -1279,43 +1279,43 @@ section.lazy-placeholder:after {
 .cid-rDaEZlZHfL .item-role P {
   color: #cf1717;
 }
-.cid-rNOYTCRU4i {
-  padding-top: 75px;
-  padding-bottom: 75px;
+.cid-rNP5spN3f4 {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #cf1717;
 }
 @media (max-width: 767px) {
-  .cid-rNOYTCRU4i .content {
+  .cid-rNP5spN3f4 .content {
     text-align: center;
   }
-  .cid-rNOYTCRU4i .content > div:not(:last-child) {
+  .cid-rNP5spN3f4 .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rNOYTCRU4i .media-wrap {
+  .cid-rNP5spN3f4 .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rNOYTCRU4i .media-wrap .mbr-iconfont-logo {
+.cid-rNP5spN3f4 .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rNOYTCRU4i .media-wrap img {
+.cid-rNP5spN3f4 .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rNOYTCRU4i .footer-lower .copyright {
+  .cid-rNP5spN3f4 .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rNOYTCRU4i .footer-lower hr {
+.cid-rNP5spN3f4 .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rNOYTCRU4i .footer-lower .social-list {
+.cid-rNP5spN3f4 .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1325,24 +1325,24 @@ section.lazy-placeholder:after {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rNOYTCRU4i .footer-lower .social-list .mbr-iconfont-social {
+.cid-rNP5spN3f4 .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rNOYTCRU4i .footer-lower .social-list .soc-item {
+.cid-rNP5spN3f4 .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rNOYTCRU4i .footer-lower .social-list a {
+.cid-rNP5spN3f4 .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rNOYTCRU4i .footer-lower .social-list a:hover {
+.cid-rNP5spN3f4 .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rNOYTCRU4i .footer-lower .social-list {
+  .cid-rNP5spN3f4 .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
